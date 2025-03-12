@@ -1,29 +1,18 @@
-<h1 align="center">Hi, I'm Vaishnavi Desai! 👋</h1>
-
-<p align="center">
-  <strong>Aspiring Data Scientist | ML Enthusiast | Tech Explorer</strong>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-desai&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-### 🚀 About Me  
-🔍 Passionate about **data science, machine learning, and AI**. Currently exploring **Neural Networks, Big Data, and AI-driven solutions**.  
-📊 Skilled in **Python, R, SQL, Scikit-learn, TensorFlow, Power BI, and more**.  
-🌱 Always learning and open to **collaborations, internships, and exciting projects**!  
-
-### 🛠 Tech Stack  
-- **Languages:** Python | R | SQL  
-- **Libraries & Frameworks:** Scikit-learn | TensorFlow | PyTorch
-- **Visualization:** Power BI | Tableau | Matplotlib  
-- **Cloud:** AWS
-- **Framework:** Flask | Django
+# 💫 About Me:
+🎓 Currently studying Data Science and exploring the world of AI & ML.<br>🤝 Open to collaborations on projects related to AI, ML, and social causes.<br>🌿 Fun Fact: I love gardening and baking in my free time!<br>🚀 Currently working on: AI agents and their real-world applications.
 
 
-### 📬 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-desai-974942299) | 📧 [Email](vaishnavidesai957@gmail.com)  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishnavidesaii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-desai-974942299) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vaishnavidesai957) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavidesai957@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vaishnavidesai09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaishnavidesai09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavidesai09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=vaishnavidesai09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💡 _"Turning data into insights, one algorithm at a time."_  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
