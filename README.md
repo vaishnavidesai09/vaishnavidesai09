@@ -1,7 +1,6 @@
 # 💫 About Me:
 Data Science grad, mostly found training models, breaking things, and fixing them. I'm into ML, computer vision, and anything LLM-related. I like building stuff that actually does something useful.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-desai-974942299)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavidesai957@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/vaishnavidesai345) 
 
@@ -10,5 +9,17 @@ Data Science grad, mostly found training models, breaking things, and fixing the
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vaishnavidesai09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavidesai09&theme=dark)
+<br>
+
+## ⚡ SYSTEM STATS
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaishnavidesai09&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavidesai09&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
