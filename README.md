@@ -75,7 +75,8 @@
 
 ## 📊 Git Diagnostics & Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavidesai09&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavidesai09&theme=github-dark)
+
 
 <br>
 
