@@ -26,6 +26,7 @@
   <a href="https://www.kaggle.com/vaishnavidesai345" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-FEE715?style=for-the-badge&logo=kaggle&logoColor=purple" alt="Kaggle" />
   </a>
+  <img src="https://img.shields.io/badge/Discord-kokumbeee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: kokumbeee" />
 </p>
 
 ---
