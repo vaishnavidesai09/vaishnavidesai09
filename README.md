@@ -26,9 +26,14 @@
   <a href="https://www.kaggle.com/vaishnavidesai345" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-FEE715?style=for-the-badge&logo=kaggle&logoColor=purple" alt="Kaggle" />
   </a>
-<a href="https://www.instagram.com/vaxshnavie?igsh=MWdjbTNpcXd4dmpjZw==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@vaxshnavie-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<p align="center">
+  <a href="https://www.instagram.com/vaxshnavie?igsh=MWdjbTNpcXd4dmpjZw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@vaxshnavie-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-kokumbeee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
 ---
 
