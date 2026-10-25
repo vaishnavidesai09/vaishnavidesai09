@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00C9A7"/>
+      <stop offset="1" stop-color="#D4AF37"/>
+    </linearGradient>
+    <path id="star" d="M0 -5 L1.3 -1.3 L5 0 L1.3 1.3 L0 5 L-1.3 1.3 L-5 0 L-1.3 -1.3 Z"/>
+  </defs>
+
+  <!-- background card -->
+  <rect x="1" y="1" width="318" height="238" rx="16" fill="#06143F" stroke="#0E7C86" stroke-width="2"/>
+  <ellipse cx="160" cy="228" rx="140" ry="6" fill="#000" opacity="0.25"/>
+  <line x1="10" y1="225" x2="310" y2="225" stroke="#0E7C86" stroke-width="1.5"/>
+
+  <!-- twinkling sparkles -->
+  <use href="#star" x="30" y="130" fill="#7FDBDA"><animate attributeName="opacity" values="0;1;0" dur="2.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="1;1.4;1" dur="2.6s" repeatCount="indefinite" additive="sum"/></use>
+  <use href="#star" x="296" y="22" fill="#D4AF37"><animate attributeName="opacity" values="0;1;0" dur="3.1s" begin="0.8s" repeatCount="indefinite"/></use>
+  <use href="#star" x="150" y="100" fill="#00C9A7"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="1.4s" repeatCount="indefinite"/></use>
+  <use href="#star" x="22" y="190" fill="#D4AF37"><animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="0.3s" repeatCount="indefinite"/></use>
+  <use href="#star" x="196" y="20" fill="#7FDBDA"><animate attributeName="opacity" values="0;1;0" dur="2.8s" begin="1.9s" repeatCount="indefinite"/></use>
+
+  <!-- floating data-science symbols -->
+  <g font-family="monospace" font-weight="bold" font-size="15">
+    <text x="14" y="52" fill="#00C9A7">{ }
+      <animate attributeName="y" values="52;45;52" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="22" y="92" fill="#D4AF37" font-size="17">Σ
+      <animate attributeName="y" values="92;85;92" dur="5s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="5s" begin="1s" repeatCount="indefinite"/>
+    </text>
+    <text x="222" y="26" fill="#7FDBDA">01
+      <animate attributeName="y" values="26;20;26" dur="3.5s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="3.5s" begin="0.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="146" y="74" fill="#0099C6" font-size="14">π
+      <animate attributeName="y" values="74;68;74" dur="4.5s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.5s" begin="2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- speech bubble that pops up -->
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.35;0.42;0.62;0.7;1" dur="8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0;0 -4;0 -4" keyTimes="0;0.35;0.42;0.62;0.7;1" dur="8s" repeatCount="indefinite"/>
+    <rect x="112" y="18" width="50" height="22" rx="9" fill="#7FDBDA"/>
+    <path d="M118 39 L112 50 L128 40 Z" fill="#7FDBDA"/>
+    <text x="121" y="33" font-family="monospace" font-weight="bold" font-size="11" fill="#06143F">yay!</text>
+    <use href="#star" x="155" y="29" fill="#D4AF37"/>
+  </g>
+
+  <!-- desk -->
+  <rect x="104" y="138" width="6" height="87" fill="#0B3C5D"/>
+  <rect x="296" y="138" width="6" height="87" fill="#0B3C5D"/>
+  <rect x="96" y="130" width="214" height="9" rx="3" fill="#0E7C86"/>
+
+  <!-- monitor -->
+  <rect x="226" y="116" width="12" height="9" fill="#0B3C5D"/>
+  <rect x="210" y="124" width="44" height="6" rx="3" fill="#0B3C5D"/>
+  <rect x="170" y="36" width="124" height="80" rx="6" fill="#0B3C5D" stroke="#00C9A7" stroke-width="1.5"/>
+  <rect x="177" y="43" width="110" height="66" rx="3" fill="#06143F"/>
+  <!-- screen: code being typed -->
+  <rect x="184" y="49" height="4" rx="2" fill="#00C9A7"><animate attributeName="width" values="0;44;44;0" keyTimes="0;0.35;0.92;1" dur="6s" repeatCount="indefinite"/></rect>
+  <rect x="184" y="57" height="4" rx="2" fill="#D4AF37"><animate attributeName="width" values="0;62;62;0" keyTimes="0;0.35;0.92;1" dur="6s" begin="0.6s" repeatCount="indefinite"/></rect>
+  <rect x="192" y="65" height="4" rx="2" fill="#7FDBDA"><animate attributeName="width" values="0;50;50;0" keyTimes="0;0.35;0.92;1" dur="6s" begin="1.2s" repeatCount="indefinite"/></rect>
+  <rect x="192" y="73" height="4" rx="2" fill="#0099C6"><animate attributeName="width" values="0;58;58;0" keyTimes="0;0.35;0.92;1" dur="6s" begin="1.8s" repeatCount="indefinite"/></rect>
+  <rect x="244" y="72" width="3" height="7" fill="#7FDBDA"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+  <!-- screen: bar chart -->
+  <line x1="182" y1="104" x2="282" y2="104" stroke="#0E7C86" stroke-width="1"/>
+  <rect x="186" y="94" height="10" width="10" rx="2" fill="#00A896"><animate attributeName="y" values="94;84;94" dur="2.4s" repeatCount="indefinite"/><animate attributeName="height" values="10;20;10" dur="2.4s" repeatCount="indefinite"/></rect>
+  <rect x="200" y="88" height="16" width="10" rx="2" fill="#0077B6"><animate attributeName="y" values="88;96;88" dur="2.8s" repeatCount="indefinite"/><animate attributeName="height" values="16;8;16" dur="2.8s" repeatCount="indefinite"/></rect>
+  <rect x="214" y="90" height="14" width="10" rx="2" fill="#00C9A7"><animate attributeName="y" values="90;80;90" dur="3.2s" repeatCount="indefinite"/><animate attributeName="height" values="14;24;14" dur="3.2s" repeatCount="indefinite"/></rect>
+  <rect x="228" y="84" height="20" width="10" rx="2" fill="#D4AF37"><animate attributeName="y" values="84;92;84" dur="2.6s" repeatCount="indefinite"/><animate attributeName="height" values="20;12;20" dur="2.6s" repeatCount="indefinite"/></rect>
+  <!-- screen: line chart -->
+  <path d="M246 100 L255 92 L264 96 L273 84 L282 88" fill="none" stroke="url(#line)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+    <animate attributeName="stroke-dashoffset" values="1;0;0;1" keyTimes="0;0.5;0.9;1" dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- rubber debugging duck on the monitor -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="1.6s" repeatCount="indefinite"/>
+    <ellipse cx="270" cy="31" rx="9" ry="6" fill="#D4AF37"/>
+    <circle cx="276" cy="23" r="5" fill="#D4AF37"/>
+    <path d="M280.5 23 L285 24.5 L280.5 26 Z" fill="#00A896"/>
+    <circle cx="277.5" cy="21.5" r="1" fill="#06143F"/>
+    <path d="M265 30 Q269 34 273 30" fill="none" stroke="#B8922B" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+
+  <!-- potted cactus at the desk end -->
+  <rect x="299" y="118" width="9" height="12" rx="2" fill="#0099C6"/>
+  <rect x="297" y="116" width="13" height="4" rx="2" fill="#00C9A7"/>
+  <rect x="301.5" y="102" width="5" height="15" rx="2.5" fill="#00A896"/>
+  <path d="M301.5 110 Q297 110 297 105" fill="none" stroke="#00A896" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="304" cy="101" r="2" fill="#D4AF37"><animate attributeName="r" values="1.5;2.6;1.5" dur="2.4s" repeatCount="indefinite"/></circle>
+
+  <!-- coffee mug with steam -->
+  <g>
+    <path d="M267 112 Q263 107 267 102 Q271 97 267 92" fill="none" stroke="#7FDBDA" stroke-width="1.6" stroke-linecap="round" opacity="0">
+      <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 6;0 -4" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M273 112 Q269 107 273 102 Q277 97 273 92" fill="none" stroke="#7FDBDA" stroke-width="1.6" stroke-linecap="round" opacity="0">
+      <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 6;0 -4" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    </path>
+    <rect x="262" y="116" width="14" height="14" rx="3" fill="#D4AF37"/>
+    <path d="M276 119 Q282 119 282 123 Q282 127 276 127" fill="none" stroke="#D4AF37" stroke-width="2.2"/>
+    <rect x="262" y="116" width="14" height="3" rx="1.5" fill="#7A4B2A"/>
+  </g>
+
+  <!-- keyboard -->
+  <rect x="124" y="124" width="46" height="6" rx="2" fill="#1B4F9C"/>
+
+  <!-- chair -->
+  <rect x="42" y="104" width="9" height="64" rx="4" fill="#1B4F9C"/>
+  <rect x="42" y="160" width="66" height="9" rx="4" fill="#1B4F9C"/>
+  <rect x="70" y="168" width="6" height="40" fill="#0B3C5D"/>
+  <rect x="52" y="208" width="46" height="6" rx="3" fill="#0B3C5D"/>
+  <circle cx="56" cy="218" r="4" fill="#0E7C86"/>
+  <circle cx="94" cy="218" r="4" fill="#0E7C86"/>
+
+  <!-- lower leg + tapping shoe -->
+  <rect x="122" y="150" width="13" height="68" rx="6" fill="#0B3C5D"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 130 221;-7 130 221;0 130 221;0 130 221" keyTimes="0;0.15;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    <ellipse cx="136" cy="221" rx="12" ry="5" fill="#7FDBDA"/>
+    <ellipse cx="136" cy="223" rx="12" ry="2" fill="#D4AF37"/>
+  </g>
+
+  <!-- back arm -->
+  <path d="M96 108 L108 136 L150 124" fill="none" stroke="#008080" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- torso -->
+  <path d="M62 108 Q60 96 74 94 L94 94 Q106 96 104 110 L100 154 L66 154 Z" fill="#00A896"/>
+
+  <!-- thigh -->
+  <rect x="64" y="146" width="68" height="15" rx="7" fill="#0B3C5D"/>
+
+  <!-- mid-length black hair, back layer (gently swaying) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-1.5 78 58;1.5 78 58;-1.5 78 58" dur="4s" repeatCount="indefinite"/>
+    <path d="M68 58 Q54 80 56 108 Q58 118 70 116 Q80 112 80 100 L82 66 Z" fill="#07070F"/>
+    <path d="M62 80 Q60 96 63 108" fill="none" stroke="#1B4F9C" stroke-width="1.6" stroke-linecap="round" opacity="0.7"/>
+    <path d="M67 74 Q65 92 68 110" fill="none" stroke="#00A896" stroke-width="1.1" stroke-linecap="round" opacity="0.5"/>
+  </g>
+
+  <!-- neck + head -->
+  <rect x="80" y="84" width="9" height="13" fill="#B97A5A"/>
+  <circle cx="85" cy="70" r="17" fill="#C68B6B"/>
+
+  <!-- front hair: top and side-swept fringe -->
+  <path d="M67 74 Q62 48 86 48 Q108 50 103 67 Q98 55 88 55 Q80 58 76 72 Q72 82 70 92 Q66 84 67 74 Z" fill="#07070F"/>
+  <path d="M74 54 Q86 50 98 56" fill="none" stroke="#1B4F9C" stroke-width="1.4" stroke-linecap="round" opacity="0.7"/>
+  <!-- feather-style hair clip -->
+  <circle cx="80" cy="54" r="4" fill="#D4AF37"/>
+  <circle cx="80" cy="54" r="2.2" fill="#00A896"/>
+  <circle cx="80" cy="54" r="0.9" fill="#06143F"/>
+
+  <!-- face -->
+  <circle cx="93" cy="79" r="3" fill="#E39A8A" opacity="0.45"/>
+  <circle cx="97" cy="71" r="5.5" fill="#7FDBDA" fill-opacity="0.18" stroke="#D4AF37" stroke-width="1.5"/>
+  <line x1="91.5" y1="70" x2="81" y2="68" stroke="#D4AF37" stroke-width="1.3"/>
+  <ellipse cx="97.5" cy="71" rx="1.6" ry="2" fill="#06143F">
+    <animate attributeName="ry" values="2;2;2;0.2;2" keyTimes="0;0.6;0.9;0.95;1" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+  <path d="M101 74 L103.5 78 L101 79" fill="none" stroke="#A8694C" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M95 84 Q98.5 87.5 102 84" fill="none" stroke="#7A3E2E" stroke-width="1.3" stroke-linecap="round"/>
+
+  <!-- front arm -->
+  <path d="M90 108 L101 138 L134 125" fill="none" stroke="#00C9A7" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- hands typing -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="0.5s" repeatCount="indefinite"/>
+    <circle cx="138" cy="124" r="5" fill="#C68B6B"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 -2.5;0 0;0 -2.5" dur="0.65s" repeatCount="indefinite"/>
+    <circle cx="152" cy="123" r="4.5" fill="#B97A5A"/>
+  </g>
+</svg>
