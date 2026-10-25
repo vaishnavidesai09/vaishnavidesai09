@@ -17,15 +17,6 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/vaishnavi-desai-974942299" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=FEE715" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vaishnavidesai957@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ff66c4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.kaggle.com/vaishnavidesai345" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-FEE715?style=for-the-badge&logo=kaggle&logoColor=purple" alt="Kaggle" />
-  </a>
   <a href="https://www.instagram.com/vaxshnavie?igsh=MWdjbTNpcXd4dmpjZw==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
